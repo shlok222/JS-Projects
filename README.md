@@ -6,7 +6,7 @@ Welcome to the **JS Projects** repository! 🚀 This repository contains various
 
 Explore the live versions of each project:
 
-1. **Basketball Scoreboard** - [Live Demo](cool-panda-e6f61c.netlify.app)
+1. **Basketball Scoreboard** - [Live Demo](https://cool-panda-e6f61c.netlify.app/)
 2. **Leads Tracker** - [Live Demo](https://stellular-mochi-2a6570.netlify.app/)
 3. **Mobile App UI** - [Live Demo](https://timely-dragon-f4631b.netlify.app/)
 4. **Password Generator** - [Live Demo](https://benevolent-tarsier-65147c.netlify.app/)
